@@ -1,6 +1,7 @@
+import { HomePage } from "./pages/HomePage"
 
 export const App = () => {
   return (
-    <h1>App</h1>
+    <HomePage />
   )
 }
