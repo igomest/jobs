@@ -1,3 +1,5 @@
+import styles from './styles.module.scss'
+
 export const CartPage = () => {
-    return <></>
+    return <h1>CartPage</h1>
 }
