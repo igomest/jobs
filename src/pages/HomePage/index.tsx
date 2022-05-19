@@ -10,21 +10,6 @@ export const HomePage = () => {
 
       <div className={styles.cartCardContainer}>
         <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
-        <CartCard />
       </div>
     </div>
   )
